@@ -1,4 +1,4 @@
-const FIREBASE_DOMAIN = 'https://react-http-f46cb-default-rtdb.asia-southeast1.firebasedatabase.app';
+const FIREBASE_DOMAIN = 'https://check-3e463-default-rtdb.asia-southeast1.firebasedatabase.app';
 
 export async function getAllQuotes() {
   const response = await fetch(`${FIREBASE_DOMAIN}/quotes.json`);
