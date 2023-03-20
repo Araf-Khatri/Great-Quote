@@ -1,4 +1,4 @@
-##[Great Quote 🔗](https://great-quote-app-by-araf.netlify.app/)
+## [Great Quote 🔗](https://great-quote-app-by-araf.netlify.app/)
 
 
 + Build a multi-page Social-networking website using **ReactJS**,**react-router**, **Firebase**. 
